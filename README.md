@@ -24,8 +24,13 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
