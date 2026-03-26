@@ -1,22 +1,17 @@
 int findSpecialInteger(int* arr, int arrSize) {
-      int n = arrSize;
+    int count = 1;
 
-    int candidates[3] = { arr[n/4], arr[n/2], arr[(3*n)/4] };
-
-    for(int i = 0; i < 3; i++) {
-        int count = 0;
-
-        for(int j = 0; j < n; j++) {
-            if(arr[j] == candidates[i]) {
-                count++;
-            }
+    for(int i = 1; i < arrSize; i++) {
+        if(arr[i] == arr[i-1]) {
+            count++;
+        } else {
+            count = 1;
         }
 
-        if(count > n/4) {
-            return candidates[i];
+        if(count > arrSize / 4) {
+            return arr[i];
         }
     }
 
-    return -1; // just safety
-
+    return arr[0];
 }
