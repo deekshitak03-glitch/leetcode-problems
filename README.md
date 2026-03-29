@@ -32,6 +32,7 @@
 | [1470-shuffle-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
@@ -66,4 +67,8 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
