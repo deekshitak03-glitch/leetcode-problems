@@ -7,6 +7,7 @@
 | [0292-nim-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2652-sum-multiples) |
@@ -26,6 +27,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +37,12 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
