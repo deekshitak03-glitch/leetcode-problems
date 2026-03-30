@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [1108-defanging-an-ip-address](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
 ## Simulation
 |  |
 | ------- |
