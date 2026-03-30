@@ -50,11 +50,13 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Number Theory
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
 ## Simulation
