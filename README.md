@@ -45,6 +45,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -132,6 +134,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
