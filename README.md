@@ -37,6 +37,7 @@
 | [0724-find-pivot-index](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -111,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,4 +154,8 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
