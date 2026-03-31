@@ -52,6 +52,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2293-min-max-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -112,6 +113,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2293-min-max-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2293-min-max-game) |
 ## Matrix
 |  |
 | ------- |
