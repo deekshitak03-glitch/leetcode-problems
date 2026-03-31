@@ -136,4 +136,12 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
