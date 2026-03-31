@@ -36,6 +36,7 @@
 | [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
 ## Simulation
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
