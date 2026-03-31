@@ -58,6 +58,7 @@
 | [2293-min-max-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2418-sort-the-people) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -91,6 +92,7 @@
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
@@ -169,6 +171,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Tree
 |  |
 | ------- |
