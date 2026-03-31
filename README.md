@@ -7,6 +7,7 @@
 | [0292-nim-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0507-perfect-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
@@ -106,9 +107,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
