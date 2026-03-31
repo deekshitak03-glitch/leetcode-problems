@@ -47,6 +47,7 @@
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -98,6 +99,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
