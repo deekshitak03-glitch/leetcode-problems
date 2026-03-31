@@ -39,6 +39,7 @@
 | [0724-find-pivot-index](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -113,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -120,6 +122,7 @@
 | [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -170,4 +174,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
