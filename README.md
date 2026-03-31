@@ -56,6 +56,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3701-compute-alternating-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
@@ -118,6 +119,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2293-min-max-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2293-min-max-game) |
+| [2553-separate-the-digits-in-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Matrix
 |  |
