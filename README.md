@@ -54,6 +54,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2293-min-max-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -105,6 +107,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2716-minimize-string-length) |
 ## Simulation
 |  |
@@ -128,6 +131,7 @@
 | [0506-relative-ranks](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
