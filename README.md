@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0292-nim-game) |
