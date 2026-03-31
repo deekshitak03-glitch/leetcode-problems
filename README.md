@@ -50,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -69,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1108-defanging-an-ip-address) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -88,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0414-third-maximum-number) |
 ## Sliding Window
 |  |
