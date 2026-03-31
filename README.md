@@ -22,6 +22,7 @@
 | [2544-alternating-digit-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2769-find-the-maximum-achievable-number) |
 ## Brainteaser
 |  |
 | ------- |
