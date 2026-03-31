@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -109,6 +110,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0136-single-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
