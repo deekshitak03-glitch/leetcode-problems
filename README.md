@@ -12,6 +12,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2413-smallest-even-multiple) |
@@ -49,6 +50,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
