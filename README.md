@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -211,4 +213,8 @@
 | ------- |
 | [0506-relative-ranks](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
