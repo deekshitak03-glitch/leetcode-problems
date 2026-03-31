@@ -16,6 +16,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2235-add-two-integers](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
