@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0292-nim-game) |
@@ -83,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -109,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
