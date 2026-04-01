@@ -45,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
@@ -156,6 +157,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
