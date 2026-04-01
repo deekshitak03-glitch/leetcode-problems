@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0292-nim-game) |
@@ -41,6 +42,7 @@
 | [0014-longest-common-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
