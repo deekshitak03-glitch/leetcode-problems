@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0292-nim-game) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
