@@ -55,6 +55,7 @@
 | [0506-relative-ranks](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
