@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0292-nim-game) |
@@ -123,6 +124,7 @@
 | [0014-longest-common-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -142,6 +144,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -175,6 +178,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0136-single-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [2351-first-letter-to-appear-twice](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
