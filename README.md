@@ -56,6 +56,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -154,6 +155,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2418-sort-the-people](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sliding Window
