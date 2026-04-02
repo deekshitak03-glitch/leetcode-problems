@@ -295,4 +295,5 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0619-biggest-single-number) |
+| [1075-project-employees-i](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
