@@ -135,6 +135,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
