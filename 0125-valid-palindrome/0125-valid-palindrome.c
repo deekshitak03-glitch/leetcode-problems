@@ -1,0 +1,33 @@
+#include <ctype.h>
+#include <stdbool.h>
+
+bool isPalindrome(char* s) {
+    int left = 0;
+    int right = 0;
+
+    // Find length
+    while (s[right] != '\0') right++;
+    right--;  // last index
+
+    while (left < right) {
+        // Skip non-alphanumeric from left
+        while (left < right && !isalnum(s[left])) {
+            left++;
+        }
+
+        // Skip non-alphanumeric from right
+        while (left < right && !isalnum(s[right])) {
+            right--;
+        }
+
+        
+        if (tolower(s[left]) != tolower(s[right])) {
+            return false;
+        }
+
+        left++;
+        right--;
+    }
+
+    return true;
+}
