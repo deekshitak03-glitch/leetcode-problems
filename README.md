@@ -222,10 +222,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 ## Enumeration
 |  |
@@ -257,4 +259,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
