@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0069-sqrtx) |
@@ -45,6 +46,7 @@
 | [0014-longest-common-prefix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +163,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
