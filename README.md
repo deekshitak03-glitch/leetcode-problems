@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0292-nim-game) |
@@ -86,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -251,4 +253,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
