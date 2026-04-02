@@ -49,6 +49,7 @@
 | [0048-rotate-image](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0189-rotate-array) |
@@ -226,11 +227,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 ## Enumeration
 |  |
@@ -270,4 +273,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
