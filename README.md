@@ -293,5 +293,6 @@
 | [0511-game-play-analysis-i](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0610-triangle-judgement](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
