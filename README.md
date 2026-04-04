@@ -231,12 +231,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 ## Enumeration
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0100-same-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,4 +302,8 @@
 | [1084-sales-analysis-iii](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1084-sales-analysis-iii) |
 | [1789-primary-department-for-each-employee](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/1795-rearrange-products-table) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/deekshitak03-glitch/leetcode-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
